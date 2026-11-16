@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 711 340" width="711" height="340" role="img" aria-label="satpass listing the ISS passes you can see from London, with times, directions and brightness">
+<style>text{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;font-size:14px;white-space:pre}</style>
+<rect width="711" height="340" rx="12" fill="#0b1020"/>
+<rect x=".5" y=".5" width="710" height="339" rx="12" fill="none" stroke="#ffffff" stroke-opacity=".1"/>
+<path d="M0 12a12 12 0 0 1 12-12h687a12 12 0 0 1 12 12v24H0z" fill="#131a33"/>
+<circle cx="22" cy="18" r="6" fill="#ff5f57"/>
+<circle cx="42" cy="18" r="6" fill="#febc2e"/>
+<circle cx="62" cy="18" r="6" fill="#28c840"/>
+<text x="355.5" y="23" text-anchor="middle" fill="#8b96b3" style="font-size:12px">satpass</text>
+<text x="24" y="66" xml:space="preserve"><tspan fill="#8b96b3">$ </tspan><tspan fill="#6ee7f9">satpass 25544 --lat 51.5072 --lon -0.1276 --visible --mag -1.8</tspan></text>
+<text x="24" y="110" xml:space="preserve"><tspan fill="#e8eefc">ISS (ZARYA)</tspan><tspan fill="#ff6b8b">  #25544</tspan><tspan fill="#8b96b3">  ·  orbit data from 16 Nov 2026, 13:27</tspan></text>
+<text x="24" y="132" xml:space="preserve"><tspan fill="#8b96b3">From 51.5072°N 0.1276°W  ·  passes above 10°  ·  times in Europe/London</tspan></text>
+<text x="24" y="176" xml:space="preserve"><tspan fill="#8b96b3">  Day          Rise    Highest          Set     Length   Naked eye</tspan></text>
+<text x="24" y="198" xml:space="preserve"><tspan fill="#e8eefc">  Tue 17 Nov   17:34   17:37  46° SSE   17:40   6m 27s   </tspan><tspan fill="#7ee787">17:34–17:39</tspan><tspan fill="#8b96b3">  mag </tspan><tspan fill="#ff6b8b">-3.4</tspan></text>
+<text x="24" y="220" xml:space="preserve"><tspan fill="#e8eefc">  Tue 17 Nov   19:10   19:14  87° N     19:17   6m 43s   </tspan><tspan fill="#7ee787">19:10–19:12</tspan><tspan fill="#8b96b3">  mag </tspan><tspan fill="#ff6b8b">-0.4</tspan></text>
+<text x="24" y="242" xml:space="preserve"><tspan fill="#e8eefc">  Wed 18 Nov   16:46   16:49  34° SSE   16:52   6m 08s   </tspan><tspan fill="#7ee787">16:46–16:52</tspan><tspan fill="#8b96b3">  mag </tspan><tspan fill="#ff6b8b">-2.9</tspan></text>
+<text x="24" y="264" xml:space="preserve"><tspan fill="#e8eefc">  Wed 18 Nov   18:23   18:26  86° S     18:29   6m 43s   </tspan><tspan fill="#7ee787">18:23–18:26</tspan><tspan fill="#8b96b3">  mag </tspan><tspan fill="#ff6b8b">-3.5</tspan></text>
+<text x="24" y="286" xml:space="preserve"><tspan fill="#e8eefc">  Thu 19 Nov   17:35   17:38  75° SSE   17:41   6m 41s   </tspan><tspan fill="#7ee787">17:35–17:40</tspan><tspan fill="#8b96b3">  mag </tspan><tspan fill="#ff6b8b">-4.0</tspan></text>
+<text x="24" y="308" xml:space="preserve"><tspan fill="#e8eefc">  Thu 19 Nov   19:12   19:15  89° N     19:18   6m 43s   </tspan><tspan fill="#7ee787">19:12–19:13</tspan><tspan fill="#8b96b3">  mag </tspan><tspan fill="#ff6b8b">-0.3</tspan></text>
+</svg>
