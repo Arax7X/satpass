@@ -1,0 +1,52 @@
+{
+  "name": "satpass",
+  "version": "0.1.0",
+  "description": "When can I see that satellite? Pass predictions with naked-eye visibility and brightness, for Node.js and the browser.",
+  "keywords": [
+    "satellite",
+    "satellite-passes",
+    "pass-prediction",
+    "iss",
+    "tle",
+    "omm",
+    "sgp4",
+    "celestrak",
+    "orbit",
+    "astronomy",
+    "space"
+  ],
+  "license": "MIT",
+  "author": "Anastacia (https://github.com/Arax7X)",
+  "homepage": "https://github.com/Arax7X/satpass#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arax7X/satpass.git"
+  },
+  "bugs": "https://github.com/Arax7X/satpass/issues",
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./src/index.d.ts",
+      "default": "./src/index.js"
+    }
+  },
+  "types": "./src/index.d.ts",
+  "bin": {
+    "satpass": "./bin/satpass.js"
+  },
+  "files": [
+    "src",
+    "bin"
+  ],
+  "sideEffects": false,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test",
+    "reference": "python3 scripts/skyfield_reference.py"
+  },
+  "dependencies": {
+    "satellite.js": "^7.2.0"
+  }
+}
